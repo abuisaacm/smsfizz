@@ -1,0 +1,11 @@
+# MAKE SURE TO LEAVE THE DENY LIST AT THE TOP OF THE FILE !!!
+# BEGIN DENY LIST --
+# END DENY LIST --
+php_value max_execution_time 3600
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteRule ^(application) - [F,L] 
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^(.*)$ index.php?/$1 [L]
+</IfModule>
