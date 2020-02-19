@@ -1,0 +1,11 @@
+https://app.smsbits.in/api/user?id=OTQ5NjcyODYwNg&senderid=FMNCOL&to=9496728606&msg=Hello&port=TA
+Not enough credits
+https://app.smsbits.in/api/user?id=OTQ5NjcyODYwNg&senderid=FMNCOL&to=9496728606&msg=There+will+be+no+regular+class+on+26-11-2018+%28Monday%29+for+Semester+IV+BA%2FBSc%2FBCom%2FBCA.%0D%0APrincipal%2C+FMN+College&port=TA
+Not enough credits
+2.4332668781281
+https://app.smsbits.in/api/user?id=OTQ5NjcyODYwNg&senderid=FMNCOL&to=9496728606&msg=Hello&port=TA
+SMS Content Template MisMatch.
+1.4486150741577
+https://app.smsbits.in/api/user?id=OTQ5NjcyODYwNg&senderid=FMNCOL&to=9496728606&msg=Hello+this+is+a+tems+message&port=TA
+610521915
+2.4403719902039

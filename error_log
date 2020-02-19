@@ -1,0 +1,14 @@
+[16-Nov-2018 10:43:05 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/muzhangilgrocers/public_html/smsfizz/application/third_party/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 85
+[16-Nov-2018 13:18:03 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/muzhangilgrocers/public_html/smsfizz/application/third_party/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 85
+[16-Nov-2018 13:20:29 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/muzhangilgrocers/public_html/smsfizz/application/third_party/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 85
+[16-Nov-2018 13:21:46 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/muzhangilgrocers/public_html/smsfizz/application/third_party/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 85
+[16-Nov-2018 13:26:23 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/muzhangilgrocers/public_html/smsfizz/application/controllers/Sms.php on line 28
+[16-Nov-2018 13:38:49 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/muzhangilgrocers/public_html/smsfizz/application/third_party/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 85
+[16-Nov-2018 13:38:51 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/muzhangilgrocers/public_html/smsfizz/application/third_party/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 85
+[16-Nov-2018 13:39:20 UTC] PHP Fatal error:  Class 'ZIPARCHIVE' not found in /home/muzhangilgrocers/public_html/smsfizz/application/third_party/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 315
+[16-Nov-2018 13:39:43 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/muzhangilgrocers/public_html/smsfizz/application/third_party/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 85
+[16-Nov-2018 13:40:39 UTC] PHP Fatal error:  Class 'ZIPARCHIVE' not found in /home/muzhangilgrocers/public_html/smsfizz/application/third_party/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 315
+[16-Nov-2018 13:47:35 UTC] PHP Fatal error:  Class 'ZIPARCHIVE' not found in /home/muzhangilgrocers/public_html/smsfizz/application/third_party/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 315
+[16-Nov-2018 13:47:37 UTC] PHP Fatal error:  Class 'ZIPARCHIVE' not found in /home/muzhangilgrocers/public_html/smsfizz/application/third_party/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 315
+[16-Nov-2018 13:47:49 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/muzhangilgrocers/public_html/smsfizz/application/third_party/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 85
+[16-Nov-2018 13:53:22 UTC] PHP Fatal error:  Class 'ZipArchive' not found in /home/muzhangilgrocers/public_html/smsfizz/application/third_party/PHPExcel/Classes/PHPExcel/Reader/Excel2007.php on line 85
